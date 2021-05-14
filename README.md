@@ -1,10 +1,11 @@
 # Retroninja 1541 Switchless Multi-ROM
-A ROM switcher for the Commodore 1541 disk drive
+A microcontroller based switchless ROM switcher for the Commodore 1541 disk drive.
+<img src="rev1.1\images\render-top.png" alt="Render top" width="400"/><br/>
 
-Switch between stock ROM, JiffyDOS and similar ROMs by issuing commands from Basic.
-No computer modifications and and drive enclosure modifications needed.
+Switch between stock CBM DOS, JiffyDOS and other ROMs by issuing commands from Basic.
+No computer modifications or drive enclosure modifications needed. Completely reversible drove modification.
 
-Read the user guide for more information.
+Read the user's guide for more information.
 
 ## BOM
  |Component|Pcs |Name|Comment|
@@ -19,6 +20,6 @@ Read the user guide for more information.
  | 560R resistor | 1 | R2 | 0805 - LED current limiting resistor|
  | LED | 1 | D1 | 0805 |
  | ECS-160-20-3X-TR | 1 | XTAL1 | Crystal 16MHz |
- | 12 pin header | 2 | "IC3" | Male machined headers. 2.54mm pitch. To fit DIL-24 socket. |
+ | 12 pin header | 2 | "IC3" | Male machined pin headers. 2.54mm pitch. To fit DIL-24 socket. |
  | 6 pin header right-angled | 1 | JP1 | Optional 2.54mm pitch. For ISP programmer. |
  
