@@ -1,9 +1,8 @@
 # Retroninja 1541 Switchless Multi-ROM
-A microcontroller based switchless ROM switcher for the Commodore 1541 disk drive.
 <img src="rev1.1\images\render-top.png" alt="Render top" width="800"/><br/>
-
+A microcontroller based switchless ROM switcher for the Commodore 1541 disk drive.
 Switch between stock CBM DOS, JiffyDOS and other ROMs by issuing commands from Basic.
-No computer modifications or drive enclosure modifications needed. Completely reversible drove modification.
+No computer modifications or drive enclosure modifications needed. Completely reversible drive modification.
 
 Read the user's guide for more information.
 
