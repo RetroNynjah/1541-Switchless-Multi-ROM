@@ -21,5 +21,5 @@ Read the user's guide for more information.
  | 560R resistor | 1 | R2 | 0805 - LED current limiting resistor|
  | LED | 1 | D1 | 0805 |
  | ECS-160-20-3X-TR | 1 | XTAL1 | Crystal 16MHz |
- | 12 pin header | 2 | "IC3" | Male machined pin headers. 2.54mm pitch. To fit DIL-24 socket. |
+ | 12 pin header | 2 | "IC3" | Male machined pin headers or flat headers. 2.54mm pitch. To fit DIL-24 socket. |
  | 6 pin header right-angled | 1 | JP1 | Optional 2.54mm pitch. For ISP programmer. |
