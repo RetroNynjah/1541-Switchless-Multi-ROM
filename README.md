@@ -4,7 +4,9 @@ A microcontroller based switchless ROM switcher for the Commodore 1541 disk driv
 Switch between stock CBM DOS, JiffyDOS and other ROMs by issuing commands from Basic.
 No computer modifications or drive enclosure modifications needed. Completely reversible drive modification.
 
-Read the user's guide for more information.
+Read the user's guide for more information. 
+ 
+<img src="rev1.1\images\3Dpcb-top.png" alt="Render top" height="800"/>  <img src="rev1.1\images\3Dpcb-bottom.png" alt="Render bottom" height="800"/><br/>
 
 ## BOM
  |Component|Pcs |Name|Comment|
@@ -21,4 +23,3 @@ Read the user's guide for more information.
  | ECS-160-20-3X-TR | 1 | XTAL1 | Crystal 16MHz |
  | 12 pin header | 2 | "IC3" | Male machined pin headers. 2.54mm pitch. To fit DIL-24 socket. |
  | 6 pin header right-angled | 1 | JP1 | Optional 2.54mm pitch. For ISP programmer. |
- 
