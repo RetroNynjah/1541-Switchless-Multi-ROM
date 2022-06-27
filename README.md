@@ -6,7 +6,7 @@ No computer modifications or drive enclosure modifications needed. Completely re
 
 Read the user's guide for more information. 
 
-# A new revision has been released under the more generic name [Switchless Multi-ROM for 2364](https://github.com/RetroNynjah/Switchless-Multi-ROM-for-2364)
+# A new revision of this board has been released under the more generic name [Switchless Multi-ROM for 2364](https://github.com/RetroNynjah/Switchless-Multi-ROM-for-2364)
 
 
 ## WARNING!
