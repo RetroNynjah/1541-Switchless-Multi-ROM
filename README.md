@@ -6,9 +6,11 @@ No computer modifications or drive enclosure modifications needed. Completely re
 
 Read the user's guide for more information. 
 
+# A new revision has been released under the more generic name [Switchless Multi-ROM for 2364](https://github.com/RetroNynjah/Switchless-Multi-ROM-for-2364)
+
+
 ## WARNING!
 There's a bug in the current revision of this design. The A16 address pin is incorrectly connected to a pure analog input on the ATmega and can't be controlled. This causes the address pin on the flash chip to float and the upper half of the ROM can't be used. If you are using this version you can only use the lower half of the ROM and the contents in the upper half needs to be an exact copy of the lower half. Another workaround could be to tie pin 2 of the flash chip or pin 19 of the ATmgea to GND using a bodge wire.
-A new revision will be released soon.
   
   
 <img src="rev1.1\images\3Dpcb-top.png" alt="Render top" height="800"/>  <img src="rev1.1\images\3Dpcb-bottom.png" alt="Render bottom" height="800"/><br/>
